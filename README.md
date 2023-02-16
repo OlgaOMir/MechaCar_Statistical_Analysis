@@ -13,8 +13,10 @@ Part 1: Linear Regression to Predict MPG
   No, because the R-squared value is 0.7149
 
 
-## Part 2: Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
-## Part 3: T-Test on Suspension Coils
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-## Part 4: Design a Study Comparing the MechaCar to the Competition
+## T-Test on Suspension Coils
+
+## Design a Study Comparing the MechaCar to the Competition
